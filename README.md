@@ -1,3 +1,3 @@
 # latex_setting
-setting.jsonとlatexmkrcはmacのもの
+setting.jsonとlatexmkrcはmacのもの\n
 のちにwinを追加する可能性あり
