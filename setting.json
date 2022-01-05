@@ -82,5 +82,6 @@
             ],
         },
     ],
-    "latex-workshop.latex.clean.subfolder.enabled": true,   //added
+    "latex-workshop.latex.clean.subfolder.enabled": true,
+    "editor.inlineSuggest.enabled": true, //added
 }
